@@ -1,0 +1,13 @@
+#labels Featured
+#ZigBee water detector.
+
+= Introduction =
+
+The ZigBee water detector device based on XBee modules and ARM processors.
+
+
+= Details =
+
+The ZigBee water detector system is a part of the big project ZigBee Home Automation System. The details are available on http://www.wirelessautomation.co.uk
+
+The device controls the water leaking or other environment such humidity, oil, pressure. It also maintenance the alarm threshold which can be programmed via ZigBee module. The detector sends information to the controller and alarm trigger.
